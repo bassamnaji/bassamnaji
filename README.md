@@ -121,7 +121,15 @@
 
 
 ## Github Stats <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'>
-<img align="center" width='680' src="https://github-readme-stats.vercel.app/api?username=bassamnaji&show_icons=true&theme=synthwave&count_private=true&hide_border=true" /> | <img align="center" width='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassamnaji&theme=synthwave&show_icons=true"/>
+<div align="center">
+<img align="center" width='680' src="https://github-readme-stats.vercel.app/api?username=bassamnaji&show_icons=true&theme=synthwave&count_private=true&hide_border=true" />
+</div>
+<br/>
+
+<div align="center">
+<img align="center" width='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassamnaji&theme=synthwave&show_icons=true"/>
+</div>
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=bassamnaji&&style=flat-square" align="center" />
