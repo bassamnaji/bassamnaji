@@ -1,19 +1,19 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Bassam Naji, a software developer 👨‍💻 studying in 42 Abu Dhabi 🚀</div>  
-  
+<div align='center'>
+  <img src="https://media4.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy.gif?cid=ecf05e47q66dax2somcq11sc10dwilqavyd5nvupwbm3ulsm&rid=giphy.gif" width='500' />
+</div>
 
-- 🌱 I’m currently learning web development  
+
+
+### <div align="center">I'm Bassam Naji, a software developer 👨‍💻 studying in 42 Abu Dhabi <img align='center' src="https://media.giphy.com/media/9g4aT4V07xIUDvcv7J/giphy.gif" width='100' /> </div>  
   
+- 🌱 I’m currently learning web development
 
 - ❓ Ask me about anything related C, C++, docker, electronics, web development and related technologies  
   
-
 - ⚡ Fun fact: I use tabs over spaces (vsc is set to insert the spaces tho 👀)  
   
+
 
 <br/>  
 
@@ -123,7 +123,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bassamnaji&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bassamnaji&show_icons=true&theme=synthwave&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -147,5 +147,3 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
