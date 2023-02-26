@@ -1,4 +1,3 @@
-
 <div align='center'>
   <img src="https://media4.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy.gif?cid=ecf05e47q66dax2somcq11sc10dwilqavyd5nvupwbm3ulsm&rid=giphy.gif" width='500' />
 </div>
@@ -86,8 +85,7 @@
 
 <br/>  
 
-
-## Connect with me  
+## Connect with me <img align='center' src='https://media2.giphy.com/media/HZrcDzLQuQu7OHXNhP/giphy.gif?cid=ecf05e47kl4vq8eaoentoby137ypziicnuxb6hhuw99nll7v&rid=giphy.gif' width='50'>
 <div align="center">
 <a href="https://linkedin.com/in/bassamnaji" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -122,28 +120,22 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bassamnaji&show_icons=true&theme=synthwave&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31v2drspdm7ztv56pz6npb6wfs5a&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
+## Github Stats <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'>
+<img align="center" width='680' src="https://github-readme-stats.vercel.app/api?username=bassamnaji&show_icons=true&theme=synthwave&count_private=true&hide_border=true" /> | <img align="center" width='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassamnaji&theme=synthwave&show_icons=true"/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=bassamnaji&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/bassamnaji" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+  <a href="https://www.buymeacoffee.com/bassamnaji" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
+  </a>
+</div>
 <br />
 
+## Chill <img align='center' src='https://media0.giphy.com/media/1xLN8Ko6BnEXX3hc60/giphy.gif?cid=ecf05e47ff4v9p94texs0k59i18y69smb74191wrkw8efc2o&rid=giphy.gif' width='50'> 
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31v2drspdm7ztv56pz6npb6wfs5a&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+<br/>  
